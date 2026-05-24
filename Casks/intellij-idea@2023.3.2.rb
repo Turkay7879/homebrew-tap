@@ -20,7 +20,6 @@ cask "intellij-idea@2023.3.2" do
   end
 
   auto_updates true
-  depends_on macos: ">= 10.13"
 
   app "IntelliJ IDEA.app"
 
